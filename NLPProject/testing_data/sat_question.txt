@@ -1,0 +1,506 @@
+1a) The revolution in art has not lost its steam; it [trudges] on as fiercely as ever.
+1b) The revolution in art has not lost its steam; it [meanders] on as fiercely as ever.
+1c) The revolution in art has not lost its steam; it [edges] on as fiercely as ever.
+1d) The revolution in art has not lost its steam; it [ambles] on as fiercely as ever.
+1e) The revolution in art has not lost its steam; it [rages] on as fiercely as ever.
+2a) Each occupation has its own [merits] ; bankers, lawyers and computer professionals, for example, all use among themselves language which outsiders have difficulty following.
+2b) Each occupation has its own [disadvantages] ; bankers, lawyers and computer professionals, for example, all use among themselves language which outsiders have difficulty following.
+2c) Each occupation has its own [rewards] ; bankers, lawyers and computer professionals, for example, all use among themselves language which outsiders have difficulty following.
+2d) Each occupation has its own [jargon] ; bankers, lawyers and computer professionals, for example, all use among themselves language which outsiders have difficulty following.
+2e) Each occupation has its own [problems] ; bankers, lawyers and computer professionals, for example, all use among themselves language which outsiders have difficulty following.
+3a) [garrulous] by nature, Jones spoke very little even to his own family members.
+3b) [equivocal] by nature, Jones spoke very little even to his own family members.
+3c) [taciturn] by nature, Jones spoke very little even to his own family members.
+3d) [arrogant] by nature, Jones spoke very little even to his own family members.
+3e) [gregarious] by nature, Jones spoke very little even to his own family members.
+4a) Many people at that time believed that spices help preserve food; however, Hall found that many marketed spices were [devoid of] bacteria, moulds and yeasts.
+4b) Many people at that time believed that spices help preserve food; however, Hall found that many marketed spices were [teeming with] bacteria, moulds and yeasts.
+4c) Many people at that time believed that spices help preserve food; however, Hall found that many marketed spices were [improved by] bacteria, moulds and yeasts.
+4d) Many people at that time believed that spices help preserve food; however, Hall found that many marketed spices were [destroyed by] bacteria, moulds and yeasts.
+4e) Many people at that time believed that spices help preserve food; however, Hall found that many marketed spices were [active against] bacteria, moulds and yeasts.
+5a) The two artists differed markedly in their temperaments; Palmer was reserved and courteous, Frazer [phlegmatic] and boastful.
+5b) The two artists differed markedly in their temperaments; Palmer was reserved and courteous, Frazer [choleric] and boastful.
+5c) The two artists differed markedly in their temperaments; Palmer was reserved and courteous, Frazer [constrained] and boastful.
+5d) The two artists differed markedly in their temperaments; Palmer was reserved and courteous, Frazer [tractable] and boastful.
+5e) The two artists differed markedly in their temperaments; Palmer was reserved and courteous, Frazer [stoic] and boastful.
+6a) Unwilling to admit that they had been in error, the researchers tried to [ascertain] their case with more data obtained from dubious sources.
+6b) Unwilling to admit that they had been in error, the researchers tried to [buttress] their case with more data obtained from dubious sources.
+6c) Unwilling to admit that they had been in error, the researchers tried to [buttress] their case with more data obtained from dubious sources.
+6d) Unwilling to admit that they had been in error, the researchers tried to [absolve] their case with more data obtained from dubious sources.
+6e) Unwilling to admit that they had been in error, the researchers tried to [dispute] their case with more data obtained from dubious sources.
+7a) The student was extremely foolhardy; he had the [wisdom] to question the senior professor's judgement.
+7b) The student was extremely foolhardy; he had the [temerity] to question the senior professor's judgement. 
+7c) The student was extremely foolhardy; he had the [interest] to question the senior professor's judgement. 
+7d) The student was extremely foolhardy; he had the [trepidation] to question the senior professor's judgement. 
+7e) The student was extremely foolhardy; he had the [condescension] to question the senior professor's judgement. 
+8a) The formerly [muddy] waters of the lake have been polluted so that the fish are no longer visible from the surface.
+8b) The formerly [tranquil] waters of the lake have been polluted so that the fish are no longer visible from the surface.
+8c) The formerly [stagnant] waters of the lake have been polluted so that the fish are no longer visible from the surface.
+8d) The formerly [pellucid] waters of the lake have been polluted so that the fish are no longer visible from the surface.
+8e) The formerly [rancid] waters of the lake have been polluted so that the fish are no longer visible from the surface.
+9a) After the accident, the nerves to her arm were damaged and so the muscles [atrophied] through disuse.
+9b) After the accident, the nerves to her arm were damaged and so the muscles [contracted] through disuse.
+9c) After the accident, the nerves to her arm were damaged and so the muscles [elongated] through disuse.
+9b) After the accident, the nerves to her arm were damaged and so the muscles [invigorated] through disuse.
+9e) After the accident, the nerves to her arm were damaged and so the muscles [dwindled] through disuse.
+10a) After grafting there is a [diminution] of lymphocytes in the lymph glands; the newly produced lymphocytes then move in to attack the foreign tissue.
+10b) After grafting there is a [proliferation] of lymphocytes in the lymph glands; the newly produced lymphocytes then move in to attack the foreign tissue.
+10c) After grafting there is a [obliteration] of lymphocytes in the lymph glands; the newly produced lymphocytes then move in to attack the foreign tissue.
+10d) After grafting there is a [paucity] of lymphocytes in the lymph glands; the newly produced lymphocytes then move in to attack the foreign tissue.
+10e) After grafting there is a [attraction] of lymphocytes in the lymph glands; the newly produced lymphocytes then move in to attack the foreign tissue.
+11a) He was treated like a [ascetic] and cast out from his community.
+11b) He was treated like a [prodigy] and cast out from his community.
+11c) He was treated like a [prodigal] and cast out from his community.
+11d) He was treated like a [pariah] and cast out from his community.
+11e) He was treated like a [tyro] and cast out from his community.
+12a) The teacher accused me of [procrastination] because my essay was so similar to that of another student.
+12b) The teacher accused me of [plagiarism] because my essay was so similar to that of another student.
+12c) The teacher accused me of [celerity] because my essay was so similar to that of another student.
+12d) The teacher accused me of [confusion] because my essay was so similar to that of another student.
+12e) The teacher accused me of [decorum] because my essay was so similar to that of another student.
+13a) We live in a [ubiquitous] age; everyone thinks that maximizing pleasure is the point of life.
+13b) We live in a [propitious] age; everyone thinks that maximizing pleasure is the point of life.
+13c) We live in a [sporadic] age; everyone thinks that maximizing pleasure is the point of life.
+13d) We live in a [corrupt] age; everyone thinks that maximizing pleasure is the point of life.
+13e) We live in a [hedonistic] age; everyone thinks that maximizing pleasure is the point of life. 
+14a) Thankfully the disease has gone into [treatment] ; it may not recur for many years.
+14b) Thankfully the disease has gone into [sequestration] ; it may not recur for many years.
+14c) Thankfully the disease has gone into [quarantine] ; it may not recur for many years.
+14d) Thankfully the disease has gone into [remission] ; it may not recur for many years.
+14e) Thankfully the disease has gone into [oblivion] ; it may not recur for many years.
+15a) People from all over the world are sent by their doctors to breathe the pure, [invigorating] air in this mountain region.
+15b) People from all over the world are sent by their doctors to breathe the pure, [soporific] air in this mountain region.
+15c) People from all over the world are sent by their doctors to breathe the pure, [debilitating] air in this mountain region.
+15d) People from all over the world are sent by their doctors to breathe the pure, [insalubrious] air in this mountain region.
+15e) People from all over the world are sent by their doctors to breathe the pure, [aromatic] air in this mountain region.
+16a) Though Adam Bede is presented to us by the author as [realistic] fiction, there are none of the life-like meanderings of the story of Amos Barton.
+16b) Though Adam Bede is presented to us by the author as [romantic] fiction, there are none of the life-like meanderings of the story of Amos Barton.
+16c) Though Adam Bede is presented to us by the author as [imaginative] fiction, there are none of the life-like meanderings of the story of Amos Barton.
+16d) Though Adam Bede is presented to us by the author as [educational] fiction, there are none of the life-like meanderings of the story of Amos Barton.
+16e) Though Adam Bede is presented to us by the author as [entertaining] fiction, there are none of the life-like meanderings of the story of Amos Barton.
+17a) After centuries of obscurity, this philosopher's thesis is enjoying a surprising [dismissal] .
+17b) After centuries of obscurity, this philosopher's thesis is enjoying a surprising [remission] .
+17c) After centuries of obscurity, this philosopher's thesis is enjoying a surprising [decimation] .
+17d) After centuries of obscurity, this philosopher's thesis is enjoying a surprising [longevity] .
+17e) After centuries of obscurity, this philosopher's thesis is enjoying a surprising [renaissance] .
+18a) Scrooge, in the famous novel by Dickens, was a [misanthrope] ; he hated the rest of mankind.
+18b) Scrooge, in the famous novel by Dickens, was a [hypochondriac] ; he hated the rest of mankind.
+18c) Scrooge, in the famous novel by Dickens, was a [philanthropist] ; he hated the rest of mankind.
+18d) Scrooge, in the famous novel by Dickens, was a [hedonist] ; he hated the rest of mankind.
+18e) Scrooge, in the famous novel by Dickens, was a [sybarite] ; he hated the rest of mankind.
+19a) A businessman must widen his horizons; a [moderate] attitude will get you nowhere in this age of global communications.
+19b) A businessman must widen his horizons; a [petrified] attitude will get you nowhere in this age of global communications.
+19c) A businessman must widen his horizons; a [parochial] attitude will get you nowhere in this age of global communications.
+19d) A businessman must widen his horizons; a [diversified] attitude will get you nowhere in this age of global communications.
+19e) A businessman must widen his horizons; a [comprehensive] attitude will get you nowhere in this age of global communications.
+20a) Our bookshelves at home display a range of books on wide-ranging subjects and in many languages, reflecting the [anomalous] tastes of our family members.
+20b) Our bookshelves at home display a range of books on wide-ranging subjects and in many languages, reflecting the [limited] tastes of our family members.
+20c) Our bookshelves at home display a range of books on wide-ranging subjects and in many languages, reflecting the [arcane] tastes of our family members.
+20d) Our bookshelves at home display a range of books on wide-ranging subjects and in many languages, reflecting the [furtive] tastes of our family members.
+20e) Our bookshelves at home display a range of books on wide-ranging subjects and in many languages, reflecting the [eclectic] tastes of our family members.
+21a) Plastic bags are [rare] symbols of consumer society; they are found wherever you travel.
+21b) Plastic bags are [ephemeral] symbols of consumer society; they are found wherever you travel.
+21c) Plastic bags are [ubiquitous] symbols of consumer society; they are found wherever you travel.
+21d) Plastic bags are [fleeting] symbols of consumer society; they are found wherever you travel.
+21e) Plastic bags are [covert] symbols of consumer society; they are found wherever you travel.
+22a) After an initially warm reception by most reviewers and continued [criticism] by conservative thinkers, Bloom's work came under heavy fire.
+22b) After an initially warm reception by most reviewers and continued [endorsement] by conservative thinkers, Bloom's work came under heavy fire.
+22c) After an initially warm reception by most reviewers and continued [denigration] by conservative thinkers, Bloom's work came under heavy fire.
+22d) After an initially warm reception by most reviewers and continued [counterattack] by conservative thinkers, Bloom's work came under heavy fire.
+22e) After an initially warm reception by most reviewers and continued [refutation] by conservative thinkers, Bloom's work came under heavy fire.
+23a) The cricket match seemed [unintelligible] to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+23b) The cricket match seemed [inconsequential] to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+23c) The cricket match seemed [interminable] to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+23d) The cricket match seemed [implausible] to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+23e) The cricket match seemed [evanescent] to our guests; they were used to watching sports in which the action is over in a couple of hours at the most.
+24a) The pond was a place of reek and corruption, of [fragrant] smells and of oxygen-starved fish breathing through laboring gills.
+24b) The pond was a place of reek and corruption, of [evocative] smells and of oxygen-starved fish breathing through laboring gills.
+24c) The pond was a place of reek and corruption, of [dolorous] smells and of oxygen-starved fish breathing through laboring gills.
+24d) The pond was a place of reek and corruption, of [resonant] smells and of oxygen-starved fish breathing through laboring gills.
+24e) The pond was a place of reek and corruption, of [fetid] smells and of oxygen-starved fish breathing through laboring gills.
+25a) The refugee's poor grasp of English is hardly an [implausible] problem; she can attend classes and improve within a matter of months.
+25b) The refugee's poor grasp of English is hardly an [insuperable] problem; she can attend classes and improve within a matter of months.
+25c) The refugee's poor grasp of English is hardly an [inconsequential] problem; she can attend classes and improve within a matter of months.
+25d) The refugee's poor grasp of English is hardly an [evocative] problem; she can attend classes and improve within a matter of months.
+25e) The refugee's poor grasp of English is hardly an [injudicious] problem; she can attend classes and improve within a matter of months.
+26a) His musical tastes are certainly [antediluvian] ; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+26b) His musical tastes are certainly [eclectic] ; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+26c) His musical tastes are certainly [harmonious] ; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+26d) His musical tastes are certainly [sonorous] ; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+26e) His musical tastes are certainly [dazzling] ; he has recordings ranging from classical piano performances to rock concerts, jazz and even Chinese opera.
+27a) I cannot conclude this preface without [rejoicing] that an early and untimely death should have prevented Persius from giving a more finished appearance to his works.
+27b) I cannot conclude this preface without [lamenting] that an early and untimely death should have prevented Persius from giving a more finished appearance to his works.
+27c) I cannot conclude this preface without [affirming] that an early and untimely death should have prevented Persius from giving a more finished appearance to his works.
+27d) I cannot conclude this preface without [commenting] that an early and untimely death should have prevented Persius from giving a more finished appearance to his works.
+27e) I cannot conclude this preface without [mentioning] that an early and untimely death should have prevented Persius from giving a more finished appearance to his works.
+28a) The crew of the air balloon [capsized] the sand bags to help the balloon rise over the hill.
+28b) The crew of the air balloon [jettisoned] the sand bags to help the balloon rise over the hill.
+28c) The crew of the air balloon [salvaged] the sand bags to help the balloon rise over the hill.
+28d) The crew of the air balloon [augmented] the sand bags to help the balloon rise over the hill.
+28e) The crew of the air balloon [enumerated] the sand bags to help the balloon rise over the hill.
+29a) Hawkins is [disparaged] in his field; no other contemporary scientist commands the same respect.
+29b) Hawkins is [ignominious] in his field; no other contemporary scientist commands the same respect.
+29c) Hawkins is [obsolete] in his field; no other contemporary scientist commands the same respect.
+29d) Hawkins is [anachronistic] in his field; no other contemporary scientist commands the same respect.
+29e) Hawkins is [preeminent] in his field; no other contemporary scientist commands the same respect.
+30a) The model paraded in front of the celebrities with [panache] ; it was impossible to tell that this was her first assignment.
+30b) The model paraded in front of the celebrities with [opprobrium] ; it was impossible to tell that this was her first assignment.
+30c) The model paraded in front of the celebrities with [shame] ; it was impossible to tell that this was her first assignment.
+30d) The model paraded in front of the celebrities with [trepidation] ; it was impossible to tell that this was her first assignment.
+30e) The model paraded in front of the celebrities with [terror] ; it was impossible to tell that this was her first assignment.
+31a) The term lead pencil is a [misnomer] ; pencils are filled with graphite not lead.
+31b) The term lead pencil is a [misdemeanor] ; pencils are filled with graphite not lead.
+31c) The term lead pencil is a [peccadillo] ; pencils are filled with graphite not lead.
+31d) The term lead pencil is a [euphemism] ; pencils are filled with graphite not lead.
+31e) The term lead pencil is a [metaphor] ; pencils are filled with graphite not lead.
+32a) The [enticing] weather forced us to stay indoors.
+32b) The [glorious] weather forced us to stay indoors.
+32c) The [enticing] weather forced us to stay indoors.
+32d) The [restorative] weather forced us to stay indoors.
+32e) The [congenial] weather forced us to stay indoors.
+33a) She was roundly condemned for her [truculence] ; she betrayed the woman to whom she owed her success.
+33b) She was roundly condemned for her [perfidy] ; she betrayed the woman to whom she owed her success.
+33c) She was roundly condemned for her [serendipity] ; she betrayed the woman to whom she owed her success.
+33d) She was roundly condemned for her [pragmatism] ; she betrayed the woman to whom she owed her success.
+33e) She was roundly condemned for her [discernment] ; she betrayed the woman to whom she owed her success.
+34a) The progress of the disease is [dramatic] ; it spreads stealthily without any symptoms in the early stages.
+34b) The progress of the disease is [acute] ; it spreads stealthily without any symptoms in the early stages.
+34c) The progress of the disease is [blatant] ; it spreads stealthily without any symptoms in the early stages.
+34d) The progress of the disease is [insidious] ; it spreads stealthily without any symptoms in the early stages.
+34e) The progress of the disease is [inexorable] ; it spreads stealthily without any symptoms in the early stages.
+35a) Tennyson was a well-loved poet; no other poet since has been so [lionized].
+35b) Tennyson was a well-loved poet; no other poet since has been so [attacked].
+35c) Tennyson was a well-loved poet; no other poet since has been so [decried].
+35d) Tennyson was a well-loved poet; no other poet since has been so [poetical].
+35e) Tennyson was a well-loved poet; no other poet since has been so [abhorred].
+36a) In a fit of [pique] she threw out the valuable statue simply because it had belonged to her ex-husband.
+36b) In a fit of [goodwill] she threw out the valuable statue simply because it had belonged to her ex-husband.
+36c) In a fit of [contrition] she threw out the valuable statue simply because it had belonged to her ex-husband.
+36d) In a fit of [pedantry] she threw out the valuable statue simply because it had belonged to her ex-husband.
+36e) In a fit of [prudence] she threw out the valuable statue simply because it had belonged to her ex-husband.
+37a) The quantum theory was initially regarded as absurd, unnatural and [consanguineous] with common sense.
+37b) The quantum theory was initially regarded as absurd, unnatural and [discernible] with common sense.
+37c) The quantum theory was initially regarded as absurd, unnatural and [incompatible] with common sense.
+37d) The quantum theory was initially regarded as absurd, unnatural and [decipherable] with common sense.
+37e) The quantum theory was initially regarded as absurd, unnatural and [consistent] with common sense.
+38a) The success of the business venture [confirmed] his expectations; he never thought that the firm would prosper.
+38b) The success of the business venture [belied] his expectations; he never thought that the firm would prosper.
+38c) The success of the business venture [nullified] his expectations; he never thought that the firm would prosper.
+38d) The success of the business venture [fulfilled] his expectations; he never thought that the firm would prosper.
+38e) The success of the business venture [ratified] his expectations; he never thought that the firm would prosper.
+39a) The professor became increasingly [taciturn] in later years, flying into a rage whenever he was opposed.
+39b) The professor became increasingly [voluble] in later years, flying into a rage whenever he was opposed.
+39c) The professor became increasingly [subdued] in later years, flying into a rage whenever he was opposed.
+39d) The professor became increasingly [contrite] in later years, flying into a rage whenever he was opposed.
+39e) The professor became increasingly [irascible] in later years, flying into a rage whenever he was opposed.
+40a) Although the deep sea has a typically [verdant] fauna, near vents in the sea bed where warm water emerges live remarkable densities of invertebrates and fish.
+40b) Although the deep sea has a typically [unique] fauna, near vents in the sea bed where warm water emerges live remarkable densities of invertebrates and fish.
+40c) Although the deep sea has a typically [lush] fauna, near vents in the sea bed where warm water emerges live remarkable densities of invertebrates and fish.
+40d) Although the deep sea has a typically [pallid] fauna, near vents in the sea bed where warm water emerges live remarkable densities of invertebrates and fish.
+40e) Although the deep sea has a typically [sparse] fauna, near vents in the sea bed where warm water emerges live remarkable densities of invertebrates and fish.
+41a) The new nomenclature was so [succinct] that many chemists preferred to revert to the older trivial names that were at least shorter.
+41b) The new nomenclature was so [cumbersome] that many chemists preferred to revert to the older trivial names that were at least shorter.
+41c) The new nomenclature was so [irrational] that many chemists preferred to revert to the older trivial names that were at least shorter.
+41d) The new nomenclature was so [facile] that many chemists preferred to revert to the older trivial names that were at least shorter.'
+41e) The new nomenclature was so [systematic] that many chemists preferred to revert to the older trivial names that were at least shorter.
+42a) Many so-called social playwrights are distinctly [conciliatory] ; rather than allowing the members of the audience to form their own opinions, these writers force a viewpoint on the viewer.
+42b) Many so-called social playwrights are distinctly [prolific] ; rather than allowing the members of the audience to form their own opinions, these writers force a viewpoint on the viewer.
+42c) Many so-called social playwrights are distinctly [iconoclastic] ; rather than allowing the members of the audience to form their own opinions, these writers force a viewpoint on the viewer.
+42d) Many so-called social playwrights are distinctly [didactic] ; rather than allowing the members of the audience to form their own opinions, these writers force a viewpoint on the viewer.
+42e) Many so-called social playwrights are distinctly [contumacious] ; rather than allowing the members of the audience to form their own opinions, these writers force a viewpoint on the viewer.
+43a) His one vice was gluttony and so it is not surprising that as he aged he became increasingly [emaciated] .
+43b) His one vice was gluttony and so it is not surprising that as he aged he became increasingly [despondent] .
+43c) His one vice was gluttony and so it is not surprising that as he aged he became increasingly [corpulent] .
+43d) His one vice was gluttony and so it is not surprising that as he aged he became increasingly [carping] .
+43e) His one vice was gluttony and so it is not surprising that as he aged he became increasingly [lithe] .
+44a) Our once thriving High School Nature Club is now [defunct] ; the programs have had to be cancelled due to lack of support.
+44b) Our once thriving High School Nature Club is now [extant] ; the programs have had to be cancelled due to lack of support.
+44c) Our once thriving High School Nature Club is now [resurgent] ; the programs have had to be cancelled due to lack of support.
+44d) Our once thriving High School Nature Club is now [burgeoning] ; the programs have had to be cancelled due to lack of support.
+44e) Our once thriving High School Nature Club is now [renovated] ; the programs have had to be cancelled due to lack of support.
+45a) Because Elaine's father was a field entomologist who trekked over the continent studying insect infestations, and insisted on taking his young family with him, Elaine and her brother had a(n) [idyllic] childhood.
+45b) Because Elaine's father was a field entomologist who trekked over the continent studying insect infestations, and insisted on taking his young family with him, Elaine and her brother had a(n) [itinerant] childhood.
+45c) Because Elaine's father was a field entomologist who trekked over the continent studying insect infestations, and insisted on taking his young family with him, Elaine and her brother had a(n) [sedentary] childhood.
+45d) Because Elaine's father was a field entomologist who trekked over the continent studying insect infestations, and insisted on taking his young family with him, Elaine and her brother had a(n) [propitious] childhood.
+45e) Because Elaine's father was a field entomologist who trekked over the continent studying insect infestations, and insisted on taking his young family with him, Elaine and her brother had a(n) [equable] childhood.
+46a) Literary criticism has in recent years become increasingly [abstruse]; it is almost impossible for the non-literary person to understand its analyses.
+46b) Literary criticism has in recent years become increasingly [accessible]; it is almost impossible for the non-literary person to understand its analyses.
+46c) Literary criticism has in recent years become increasingly [colloquial]; it is almost impossible for the non-literary person to understand its analyses.
+46d) Literary criticism has in recent years become increasingly [wide-ranging]; it is almost impossible for the non-literary person to understand its analyses.
+46e) Literary criticism has in recent years become increasingly [professional]; it is almost impossible for the non-literary person to understand its analyses.
+47a) The alchemists, though they are often supposed to have been [empiricists] or confidence tricksters, were actually skilful technologists.
+47b) The alchemists, though they are often supposed to have been [polemicists] or confidence tricksters, were actually skilful technologists.
+47c) The alchemists, though they are often supposed to have been [pragmatists] or confidence tricksters, were actually skilful technologists.
+47d) The alchemists, though they are often supposed to have been [theorists] or confidence tricksters, were actually skilful technologists.
+47e) The alchemists, though they are often supposed to have been [charlatans] or confidence tricksters, were actually skilful technologists.
+48a) Bullock carts and hand pumps seem [anachronisms] in a village whose skyline is dominated by telephone cables and satellite dishes.
+48b) Bullock carts and hand pumps seem [exigencies] in a village whose skyline is dominated by telephone cables and satellite dishes.
+48c) Bullock carts and hand pumps seem [diversions] in a village whose skyline is dominated by telephone cables and satellite dishes.
+48d) Bullock carts and hand pumps seem [provocations] in a village whose skyline is dominated by telephone cables and satellite dishes.
+48e) Bullock carts and hand pumps seem [portents] in a village whose skyline is dominated by telephone cables and satellite dishes.
+49a) A [obdurate] child, she was soon bored in class; she already knew more mathematics than her junior school teachers.
+49b) A [querulous] child, she was soon bored in class; she already knew more mathematics than her junior school teachers.
+49c) A [precocious] child, she was soon bored in class; she already knew more mathematics than her junior school teachers.
+49d) A [recalcitrant] child, she was soon bored in class; she already knew more mathematics than her junior school teachers.
+49e) A [contemporary] child, she was soon bored in class; she already knew more mathematics than her junior school teachers.
+50a) The explorer was unable to [assuage] his thirst at the stream since an enraged Grizzly bear barred the way.
+50b) The explorer was unable to [parch] his thirst at the stream since an enraged Grizzly bear barred the way.
+50c) The explorer was unable to [savor] his thirst at the stream since an enraged Grizzly bear barred the way.
+50d) The explorer was unable to [describe] his thirst at the stream since an enraged Grizzly bear barred the way.
+50e) The explorer was unable to [attenuate] his thirst at the stream since an enraged Grizzly bear barred the way.
+51a)After a brief and violent [nuance] that ousted the president, General Monsanto declared himself the dictator of the country.
+51b)After a brief and violent [coup] that ousted the president, General Monsanto declared himself the dictator of the country.
+51c)After a brief and violent [solicitation] that ousted the president, General Monsanto declared himself the dictator of the country.
+51d)After a brief and violent [upbraiding] that ousted the president, General Monsanto declared himself the dictator of the country.
+51e)After a brief and violent [lament] that ousted the president, General Monsanto declared himself the dictator of the country.
+52a)The city council formed a committee to simplify several dozen [feckless] city ordinances that were unnecessarily complicated and out-of-date.
+52b)The city council formed a committee to simplify several dozen [empirical] city ordinances that were unnecessarily complicated and out-of-date.
+52c)The city council formed a committee to simplify several dozen [byzantine] city ordinances that were unnecessarily complicated and out-of-date.
+52d)The city council formed a committee to simplify several dozen [slovenly] city ordinances that were unnecessarily complicated and out-of-date.
+52e)The city council formed a committee to simplify several dozen [pedantic] city ordinances that were unnecessarily complicated and out-of-date.
+53a)She hadn’t eaten all day, and by the time she got home she was [blighted].
+53b)She hadn’t eaten all day, and by the time she got home she was [confutative].
+53c)She hadn’t eaten all day, and by the time she got home she was [ravenous].
+53d)She hadn’t eaten all day, and by the time she got home she was [ostentatious].
+53e)She hadn’t eaten all day, and by the time she got home she was [blissful].
+54a)The movie offended many of the parents of its younger viewers by including unnecessary [vulgarity] in the dialogue.
+54b)The movie offended many of the parents of its younger viewers by including unnecessary [verbosity] in the dialogue.
+54c)The movie offended many of the parents of its younger viewers by including unnecessary [vocalizations] in the dialogue.
+54d)The movie offended many of the parents of its younger viewers by including unnecessary [garishness] in the dialogue.
+54e)The movie offended many of the parents of its younger viewers by including unnecessary [tonality] in the dialogue.
+55a)His neighbors found his [insentient] manner bossy and irritating, and they stopped inviting him to backyard barbeques.
+55b)His neighbors found his [magisterial] manner bossy and irritating, and they stopped inviting him to backyard barbeques.
+55c)His neighbors found his [reparatory] manner bossy and irritating, and they stopped inviting him to backyard barbeques.
+55d)His neighbors found his [restorative] manner bossy and irritating, and they stopped inviting him to backyard barbeques.
+55e)His neighbors found his [modest] manner bossy and irritating, and they stopped inviting him to backyard barbeques.
+56a)Steven is always [legible] about showing up for work because he feels that tardiness is a sign of irresponsibility.
+56b)Steven is always [tolerable] about showing up for work because he feels that tardiness is a sign of irresponsibility.
+56c)Steven is always [punctual] about showing up for work because he feels that tardiness is a sign of irresponsibility.
+56d)Steven is always [literal] about showing up for work because he feels that tardiness is a sign of irresponsibility.
+56e)Steven is always [belligerent] about showing up for work because he feels that tardiness is a sign of irresponsibility.
+57a)Candace would [advocate] her little sister into an argument by teasing her and calling her names.
+57b)Candace would [provoke] her little sister into an argument by teasing her and calling her names.
+57c)Candace would [perforate] her little sister into an argument by teasing her and calling her names.
+57d)Candace would [lamente] her little sister into an argument by teasing her and calling her names.
+57e)Candace would [expunge] her little sister into an argument by teasing her and calling her names.
+58a)The dress Ariel wore [titillated] with small, glassy beads, creating a shimmering effect.
+58b)The dress Ariel wore [reiterated] with small, glassy beads, creating a shimmering effect.
+58c)The dress Ariel wore [scintillated] with small, glassy beads, creating a shimmering effect.
+58d)The dress Ariel wore [enthralled] with small, glassy beads, creating a shimmering effect.
+58e)The dress Ariel wore [striated] with small, glassy beads, creating a shimmering effect.
+59a)Being able to afford this luxury car will [maximize] getting a better-paying job.
+59b)Being able to afford this luxury car will [recombinant] getting a better-paying job.
+59c)Being able to afford this luxury car will [reiterate] getting a better-paying job.
+59d)Being able to afford this luxury car will [necessitate] getting a better-paying job.
+59e)Being able to afford this luxury car will [reciprocate] getting a better-paying job.
+60a)Levina unknowingly [coerced] the thief by holding open the elevator doors and ensuring his escape.
+60b)Levina unknowingly [proclaimed] the thief by holding open the elevator doors and ensuring his escape.
+60c)Levina unknowingly [abetted] the thief by holding open the elevator doors and ensuring his escape.
+60d)Levina unknowingly [sanctioned] the thief by holding open the elevator doors and ensuring his escape.
+60e)Levina unknowingly [solicited] the thief by holding open the elevator doors and ensuring his escape.
+61a)Shakespeare, a [numeric] writer, entertained audiences by writing many tragic and comic plays.
+61b)Shakespeare, an [obstinate] writer, entertained audiences by writing many tragic and comic plays.
+61c)Shakespeare, a [dutiful] writer, entertained audiences by writing many tragic and comic plays.
+61d)Shakespeare, a [prolific] writer, entertained audiences by writing many tragic and comic plays.
+61e)Shakespeare, a [generic] writer, entertained audiences by writing many tragic and comic plays.
+62a)I had the [satisfactory] experience of sitting next to an over-talkative passenger on my flight home from Brussels.
+62b)I had the [commendable] experience of sitting next to an over-talkative passenger on my flight home from Brussels.
+62c)I had the [galling] experience of sitting next to an over-talkative passenger on my flight home from Brussels.
+62d)I had the [acceptable] experience of sitting next to an over-talkative passenger on my flight home from Brussels.
+62e)I had the [acute] experience of sitting next to an over-talkative passenger on my flight home from Brussels.
+63a)Prince Phillip had to choose: marry the woman he loved and [reprimand] his right to the throne, or marry Lady Fiona and inherit the crown.
+63b)Prince Phillip had to choose: marry the woman he loved and [upbraid] his right to the throne, or marry Lady Fiona and inherit the crown.
+63c)Prince Phillip had to choose: marry the woman he loved and [abdicate] his right to the throne, or marry Lady Fiona and inherit the crown.
+63d)Prince Phillip had to choose: marry the woman he loved and [winnow] his right to the throne, or marry Lady Fiona and inherit the crown.
+63e)Prince Phillip had to choose: marry the woman he loved and [extol] his right to the throne, or marry Lady Fiona and inherit the crown.
+64a)If you will not do your work of your own [predilection], I have no choice but to penalize you if it is not done on time.
+64b)If you will not do your work of your own [coercion], I have no choice but to penalize you if it is not done on time.
+64c)If you will not do your work of your own [excursion], I have no choice but to penalize you if it is not done on time.
+64d)If you will not do your work of your own [volition], I have no choice but to penalize you if it is not done on time.
+64e)If you will not do your work of your own [infusion], I have no choice but to penalize you if it is not done on time.
+65a)After sitting in the sink for several days, the dirty, food-encrusted dishes became [malodorous].
+65b)After sitting in the sink for several days, the dirty, food-encrusted dishes became [prevalent].
+65c)After sitting in the sink for several days, the dirty, food-encrusted dishes became [imposing] .
+65d)After sitting in the sink for several days, the dirty, food-encrusted dishes became [perforated] .
+65e)After sitting in the sink for several days, the dirty, food-encrusted dishes became [emphatic] .
+66a)Giulia soon discovered the source of the [quaint] smell in the room: a week-old tuna sandwich that one of the children had hidden in the closet.
+66b)Giulia soon discovered the source of the [fastidious] smell in the room: a week-old tuna sandwich that one of the children had hidden in the closet.
+66c)Giulia soon discovered the source of the [clandestine] smell in the room: a week-old tuna sandwich that one of the children had hidden in the closet.
+66d)Giulia soon discovered the source of the [laconic] smell in the room: a week-old tuna sandwich that one of the children had hidden in the closet.
+66e)Giulia soon discovered the source of the [fetid] smell in the room: a week-old tuna sandwich that one of the children had hidden in the closet.
+67a)After making [hospitable] remarks to the President, the reporter was not invited to return to the White House pressroom.
+67b)After making [itinerant] remarks to the President, the reporter was not invited to return to the White House pressroom.
+67c)After making [enterprising] remarks to the President, the reporter was not invited to return to the White House pressroom.
+67d)After making [chivalrous] remarks to the President, the reporter was not invited to return to the White House pressroom.
+67e)After making [irreverent] remarks to the President, the reporter was not invited to return to the White House pressroom.
+68a)With her [inferior] eyesight, Krystyna spotted a trio of deer on the hillside and she reduced the speed of her car.
+68b)With her [keen] eyesight, Krystyna spotted a trio of deer on the hillside and she reduced the speed of her car.
+68c)With her [impressionable] eyesight, Krystyna spotted a trio of deer on the hillside and she reduced the speed of her car.
+68d)With her [ductile] eyesight, Krystyna spotted a trio of deer on the hillside and she reduced the speed of her car.
+68e)With her [conspiratorial] eyesight, Krystyna spotted a trio of deer on the hillside and she reduced the speed of her car.
+69a)With a [jaundiced] grin, the boy quickly slipped the candy into his pocket without his mother’s knowledge.
+69b)With a [nefarious] grin, the boy quickly slipped the candy into his pocket without his mother’s knowledge.
+69c)With a [stereotypical] grin, the boy quickly slipped the candy into his pocket without his mother’s knowledge.
+69d)With a [sentimental] grin, the boy quickly slipped the candy into his pocket without his mother’s knowledge.
+69e)With an [impartial] grin, the boy quickly slipped the candy into his pocket without his mother’s knowledge.
+70a)Her [maudlin] display of tears at work did not impress her new boss, who felt she should try to control her emotions.
+70b)Her [meritorious] display of tears at work did not impress her new boss, who felt she should try to control her emotions.
+70c)Her [precarious] display of tears at work did not impress her new boss, who felt she should try to control her emotions.
+70d)Her [plausible] display of tears at work did not impress her new boss, who felt she should try to control her emotions.
+70e)Her [schematic] display of tears at work did not impress her new boss, who felt she should try to control her emotions.
+71a)Johan argued, “If you know about a crime but don’t report it, you are [acquitted] in that crime because you allowed it to happen.”
+71b)Johan argued, “If you know about a crime but don’t report it, you are [steadfast] in that crime because you allowed it to happen.”
+71c)Johan argued, “If you know about a crime but don’t report it, you are [tenuous] in that crime because you allowed it to happen.”
+71d)Johan argued, “If you know about a crime but don’t report it, you are [complicit] in that crime because you allowed it to happen.”
+71e)Johan argued, “If you know about a crime but don’t report it, you are [nullified] in that crime because you allowed it to happen.”
+72a)The authorities, fearing a [subversion] of their power, called for a military state in the hopes of restoring order.
+72b)The authorities, fearing a [premonition] of their power, called for a military state in the hopes of restoring order.
+72c)The authorities, fearing a [predilection] of their power, called for a military state in the hopes of restoring order.
+72d)The authorities, fearing a [infusion] of their power, called for a military state in the hopes of restoring order.
+72e)The authorities, fearing a [inversion] of their power, called for a military state in the hopes of restoring order.
+73a)The story’s bitter antagonist felt such great [insurgence] for all of the other characters that as a result, his life was very lonely and he died alone.
+73b)The story’s bitter antagonist felt such great [malevolence] for all of the other characters that as a result, his life was very lonely and he died alone.
+73c)The story’s bitter antagonist felt such great [reciprocation] for all of the other characters that as a result, his life was very lonely and he died alone.
+73d)The story’s bitter antagonist felt such great [declamation] for all of the other characters that as a result, his life was very lonely and he died alone.
+73e)The story’s bitter antagonist felt such great [preference] for all of the other characters that as a result, his life was very lonely and he died alone.
+74a)It is difficult to believe that charging 70% on an outstanding credit card balance isn’t [bankruptcy]!
+74b)It is difficult to believe that charging 70% on an outstanding credit card balance isn’t [usury]!
+74c)It is difficult to believe that charging 70% on an outstanding credit card balance isn’t [novice]!
+74d)It is difficult to believe that charging 70% on an outstanding credit card balance isn’t [kleptomania]!
+74e)It is difficult to believe that charging 70% on an outstanding credit card balance isn’t [flagrancy]!
+75a)The [impertinent] weather patterns of the tropical island meant tourists had to carry both umbrellas and sunglasses.
+75b)The [supplicant] weather patterns of the tropical island meant tourists had to carry both umbrellas and sunglasses.
+75c)The [preeminent] weather patterns of the tropical island meant tourists had to carry both umbrellas and sunglasses.
+75d)The [illustrative] weather patterns of the tropical island meant tourists had to carry both umbrellas and sunglasses.
+75e)The [kaleidoscopic] weather patterns of the tropical island meant tourists had to carry both umbrellas and sunglasses.
+76a)Wedding ceremonies often include the exchange of [hirsute] rings to symbolize the couple’s promises to each other.
+76b)Wedding ceremonies often include the exchange of [acrimonious] rings to symbolize the couple’s promises to each other.
+76c)Wedding ceremonies often include the exchange of [plaintive] rings to symbolize the couple’s promises to each other.
+76d)Wedding ceremonies often include the exchange of [deciduous] rings to symbolize the couple’s promises to each other.
+76e)Wedding ceremonies often include the exchange of [votive] rings to symbolize the couple’s promises to each other.
+77a)Kym was [indispensable] in choosing her friends, so her parties were attended by vastly different and sometimes bizarre personalities.
+77b)Kym was [indiscriminate] in choosing her friends, so her parties were attended by vastly different and sometimes bizarre personalities.
+77c)Kym was [commensurate] in choosing her friends, so her parties were attended by vastly different and sometimes bizarre personalities.
+77d)Kym was [propulsive] in choosing her friends, so her parties were attended by vastly different and sometimes bizarre personalities.
+77e)Kym was [indisputable] in choosing her friends, so her parties were attended by vastly different and sometimes bizarre personalities.
+78a)Phillip’s [aloof] tone endeared him to his comical friends, but irritated his serious father.
+78b)Phillip’s [jesting] tone endeared him to his comical friends, but irritated his serious father.
+78c)Phillip’s [grave] tone endeared him to his comical friends, but irritated his serious father.
+78d)Phillip’s [earnest] tone endeared him to his comical friends, but irritated his serious father.
+78e)Phillip’s [conservative] tone endeared him to his comical friends, but irritated his serious father.
+79a)Brian’s pale Irish skin was [prone] to burn if he spent too much time in the sun.
+79b)Brian’s pale Irish skin was [urbane] to burn if he spent too much time in the sun.
+79c)Brian’s pale Irish skin was [eminent] to burn if he spent too much time in the sun.
+79d)Brian’s pale Irish skin was [erect] to burn if he spent too much time in the sun.
+79e)Brian’s pale Irish skin was [daunted] to burn if he spent too much time in the sun.
+80a)A fan of historical fiction, Joline is now reading a novel about slavery in the [decorous] South.
+80b)A fan of historical fiction, Joline is now reading a novel about slavery in the [rogue] South.
+80c)A fan of historical fiction, Joline is now reading a novel about slavery in the [droll] South.
+80d)A fan of historical fiction, Joline is now reading a novel about slavery in the [antebellum] South.
+80e)A fan of historical fiction, Joline is now reading a novel about slavery in the [onerous] South.
+81a)Over the years the Wilsons slowly [encroached] upon the Jacksons’ property, moving the stone markers that divided their lots farther and farther onto the Jacksons’ land.
+81b)Over the years the Wilsons slowly [jettisoned] upon the Jacksons’ property, moving the stone markers that divided their lots farther and farther onto the Jacksons’ land.
+81c)Over the years the Wilsons slowly [conjoined] upon the Jacksons’ property, moving the stone markers that divided their lots farther and farther onto the Jacksons’ land.
+81d)Over the years the Wilsons slowly [repudiated] upon the Jacksons’ property, moving the stone markers that divided their lots farther and farther onto the Jacksons’ land.
+81e)Over the years the Wilsons slowly [teemed] upon the Jacksons’ property, moving the stone markers that divided their lots farther and farther onto the Jacksons’ land.
+82a)Mary became [proficient] at typing because she practiced every day for six months.
+82b)Mary became [reflective] at typing because she practiced every day for six months.
+82c)Mary became [dormant] at typing because she practiced every day for six months.
+82d)Mary became [redundant] at typing because she practiced every day for six months.
+82e)Mary became [valiant] at typing because she practiced every day for six months.
+83a)To find out what her husband bought for her birthday, Susan attempted to [prescribe] his family members about his recent shopping excursions.
+83b)To find out what her husband bought for her birthday, Susan attempted to [probe] his family members about his recent shopping excursions.
+83c)To find out what her husband bought for her birthday, Susan attempted to [alienate] his family members about his recent shopping excursions.
+83d)To find out what her husband bought for her birthday, Susan attempted to [converge] his family members about his recent shopping excursions.
+83e)To find out what her husband bought for her birthday, Susan attempted to [revere] his family members about his recent shopping excursions.
+84a)Juan’s friends found him in a [jovial] mood after he learned he would be homecoming king.
+84b)Juan’s friends found him in a [stealthy] mood after he learned he would be homecoming king.
+84c)Juan’s friends found him in a [paltry] mood after he learned he would be homecoming king.
+84d)Juan’s friends found him in a [gullible] mood after he learned he would be homecoming king.
+84e)Juan’s friends found him in a [depleted] mood after he learned he would be homecoming king.
+85a)His suit of armor made the knight [vulnerable] to his enemy’s attack, and he was able to escape safely to his castle.
+85b)His suit of armor made the knight [churlish] to his enemy’s attack, and he was able to escape safely to his castle.
+85c)His suit of armor made the knight [invulnerable] to his enemy’s attack, and he was able to escape safely to his castle.
+85d)His suit of armor made the knight [static] to his enemy’s attack, and he was able to escape safely to his castle.
+85e)His suit of armor made the knight [imprudent] to his enemy’s attack, and he was able to escape safely to his castle.
+86a)Choosing a small, fuel-efficient car is a [corrupt] purchase for a recent college graduate.
+86b)Choosing a small, fuel-efficient car is a [tedious] purchase for a recent college graduate.
+86c)Choosing a small, fuel-efficient car is a [unhallowed] purchase for a recent college graduate.
+86d)Choosing a small, fuel-efficient car is a [sardonic] purchase for a recent college graduate.
+86e)Choosing a small, fuel-efficient car is a [judicious] purchase for a recent college graduate.
+87a)Such a [copious] violation of school policy should be punished by nothing less than expulsion.
+87b)Such a [flagrant] violation of school policy should be punished by nothing less than expulsion.
+87c)Such a [raucous] violation of school policy should be punished by nothing less than expulsion.
+87d)Such a [nominal] violation of school policy should be punished by nothing less than expulsion.
+87e)Such a [morose] violation of school policy should be punished by nothing less than expulsion.
+88a)With all of the recent negative events in her life, she felt [resurgent] forces must be at work.
+88b)With all of the recent negative events in her life, she felt [premature] forces must be at work.
+88c)With all of the recent negative events in her life, she felt [malignant] forces must be at work.
+88d)With all of the recent negative events in her life, she felt [punctilious] forces must be at work.
+88e)With all of the recent negative events in her life, she felt [antecedent] forces must be at work.
+89a)The [bemused] rumors did a great deal of damage even though they turned out to be false.
+89b)The [prosaic] rumors did a great deal of damage even though they turned out to be false.
+89c)The [apocryphal] rumors did a great deal of damage even though they turned out to be false.
+89d)The [ebullient] rumors did a great deal of damage even though they turned out to be false.
+89e)The [tantamount] rumors did a great deal of damage even though they turned out to be false.
+90a)When her schoolwork got to be too much, Pam had a tendency to [dedicate], which always put her further behind.
+90b)When her schoolwork got to be too much, Pam had a tendency to [rejuvenate], which always put her further behind.
+90c)When her schoolwork got to be too much, Pam had a tendency to [ponder], which always put her further behind.
+90d)When her schoolwork got to be too much, Pam had a tendency to [excel], which always put her further behind.
+90e)When her schoolwork got to be too much, Pam had a tendency to [procrastinate], which always put her further behind.
+91a)Racha’s glance was a [trecherous] invitation to speak later in private about events of the meeting.
+91b)Racha’s glance was a [scintillating] invitation to speak later in private about events of the meeting.
+91c)Racha’s glance was a [tactful] invitation to speak later in private about events of the meeting.
+91d)Racha’s glance was a [tacit] invitation to speak later in private about events of the meeting.
+91e)Racha’s glance was a [taboo] invitation to speak later in private about events of the meeting.
+92a)She reached the [harbinger] of her career with her fourth novel, which won the Pulitzer Prize.
+92b)She reached the [apogee] of her career with her fourth novel, which won the Pulitzer Prize.
+92c)She reached the [metamorphosis] of her career with her fourth novel, which won the Pulitzer Prize.
+92d)She reached the [dictum] of her career with her fourth novel, which won the Pulitzer Prize.
+92e)She reached the [synthesis] of her career with her fourth novel, which won the Pulitzer Prize.
+93a)The [somber] townspeople celebrated the soldier’s return to his home by adorning trees with yellow ribbons and balloons.
+93b)The [jubilant] townspeople celebrated the soldier’s return to his home by adorning trees with yellow ribbons and balloons.
+93c)The [pitiless] townspeople celebrated the soldier’s return to his home by adorning trees with yellow ribbons and balloons.
+93d)The [cunning] townspeople celebrated the soldier’s return to his home by adorning trees with yellow ribbons and balloons.
+93e)The [unsullied] townspeople celebrated the soldier’s return to his home by adorning trees with yellow ribbons and balloons.
+94a)The governor-elect was hounded by a group of [facetious] lobbyists and others hoping to gain favor with her administration.
+94b)The governor-elect was hounded by a group of [abstruse] lobbyists and others hoping to gain favor with her administration.
+94c)The governor-elect was hounded by a group of [magnanimous] lobbyists and others hoping to gain favor with her administration.
+94d)The governor-elect was hounded by a group of [fawning] lobbyists and others hoping to gain favor with her administration.
+94e)The governor-elect was hounded by a group of [saccharine] lobbyists and others hoping to gain favor with her administration.
+95a)The mock graduation ceremony—with a trained skunk posing as the college president—was a complete [tempest] that offended many college officials.
+95b)The mock graduation ceremony—with a trained skunk posing as the college president—was a complete [epitome] that offended many college officials.
+95c)The mock graduation ceremony—with a trained skunk posing as the college president—was a complete [quintessence] that offended many college officials.
+95d)The mock graduation ceremony—with a trained skunk posing as the college president—was a complete [travesty] that offended many college officials.
+95e)The mock graduation ceremony—with a trained skunk posing as the college president—was a complete [recitative] that offended many college officials.
+96a)The busy, [mottled] fabric of the clown’s tie matched his oversized jacket, which was equally atrocious.
+96b)The busy, [bleak] fabric of the clown’s tie matched his oversized jacket, which was equally atrocious.
+96c)The busy, [credible] fabric of the clown’s tie matched his oversized jacket, which was equally atrocious.
+96d)The busy, [malleable] fabric of the clown’s tie matched his oversized jacket, which was equally atrocious.
+96e)The busy, [communicable] fabric of the clown’s tie matched his oversized jacket, which was equally atrocious.
+97a)Kendrick’s talent [bantered] under the tutelage of Anya Kowalonek, who as a young woman had been the most accomplished pianist in her native Lithuania.
+97b)Kendrick’s talent [touted] under the tutelage of Anya Kowalonek, who as a young woman had been the most accomplished pianist in her native Lithuania.
+97c)Kendrick’s talent [flourished] under the tutelage of Anya Kowalonek, who as a young woman had been the most accomplished pianist in her native Lithuania.
+97d)Kendrick’s talent [embellished] under the tutelage of Anya Kowalonek, who as a young woman had been the most accomplished pianist in her native Lithuania.
+97e)Kendrick’s talent [colluded] under the tutelage of Anya Kowalonek, who as a young woman had been the most accomplished pianist in her native Lithuania.
+98a)The children were [censured] by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.
+98b)The children were [striated] by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.
+98c)The children were [feigned] by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.
+98d)The children were [prevaricated] by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.
+98e)The children were [flummoxed] by the seemingly nonsensical clues until Kinan pointed out that the messages were in code.
+99a)As the [protagonist] in Romeo and Juliet, Romeo is a hero able to capture the audience’s sympathy by continually professing his love for Juliet.
+99b)As the [enigma] in Romeo and Juliet, Romeo is a hero able to capture the audience’s sympathy by continually professing his love for Juliet.
+99c)As the [facade] in Romeo and Juliet, Romeo is a hero able to capture the audience’s sympathy by continually professing his love for Juliet.
+99d)As the [activist] in Romeo and Juliet, Romeo is a hero able to capture the audience’s sympathy by continually professing his love for Juliet.
+99e)As the [catechist] in Romeo and Juliet, Romeo is a hero able to capture the audience’s sympathy by continually professing his love for Juliet.
+100a)The chess master promised to [wreak] havoc upon his opponent’s pawns for taking his bishop.
+100b)The chess master promised to [warrant] havoc upon his opponent’s pawns for taking his bishop.
+100c)The chess master promised to [ensue] havoc upon his opponent’s pawns for taking his bishop.
+100d)The chess master promised to [placate] havoc upon his opponent’s pawns for taking his bishop.
+100e)The chess master promised to [endow] havoc upon his opponent’s pawns for taking his bishop.
+
+
+
+
+
+
